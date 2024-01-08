@@ -24,7 +24,7 @@ You should see *Hello World!* there.
 
 # Install on a desktop
 Use the browser to install the application on your desktop.
-For example, in Chrome, a button with the prompt "Install the application *PLAY Hello World starter*" should appear in
+For example, in Chrome, a button with the prompt "Install the application *PWA HelloWorld starter*" should appear in
 the address bar.
 Click on the button and you should see the application icon appear on the desktop.
 
