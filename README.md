@@ -16,8 +16,8 @@
 
 
 # Building the war package
-Put the contents of the src directory in pwa-helloworld-starter.war and deploy it on the local application server,
-for example, on Tomcat.
+Place the contents of the src directory in *pwa-helloworld-starter.war* with any archiver that supports the zip format
+and deploy it on a local application server, for example, on Tomcat.
 
 # Launch the application in the browser 
 Log in to the local server using http://localhost:8080/pwa-helloworld-starter/.
