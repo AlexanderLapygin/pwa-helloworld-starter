@@ -4,7 +4,7 @@
     </a>
 </div> 
 
-[*PWA HelloWorld starter*](https://github.com/AlexanderLapygin/pwa-helloworld-starter)
+# PWA HelloWorld starter
 
 ## Feature tags
 
