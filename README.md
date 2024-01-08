@@ -1,31 +1,20 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *cra-starter*
+# PWA HelloWorld starter
 
-Minimalistic [*Create React App*](https://github.com/facebook/create-react-app) starter
-
-UNDER DEVELOPMENT
+[*PWA HelloWorld starter*](https://github.com/AlexanderLapygin/pwa-helloworld-starter)
 
 ## Feature tags
 
-- create-react-app
+- helloworld
+- pwa
 - starter
 - template
-
-## Direct descendants - also by code
-
-- [+*maven*, *war*](https://github.com/softspiders/cra-maven-war-starter)
-- [+*ie11*](https://github.com/softspiders/cra-ie11-starter)
-
-## Requirements
-
-* [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [*Node*](https://nodejs.org/en/download/package-manager/)
 
 
 ## Author
 
-[BorisovAV](https://github.com/BorisovAV)
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
 
 ### License
 
