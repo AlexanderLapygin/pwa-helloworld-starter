@@ -12,9 +12,10 @@
 - pwa
 - starter
 - template
+- war
 
 
-# Build
+# Building the war package
 Put the contents of the src directory in pwa-helloworld-starter.war and deploy it on the local application server,
 for example, on Tomcat.
 
