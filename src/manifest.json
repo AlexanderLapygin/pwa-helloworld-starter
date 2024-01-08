@@ -1,0 +1,20 @@
+{
+  "short_name": "HelloPWA",
+  "name": "PWA HelloWorld starter",
+  "icons": [
+      {
+          "src": "images/ss-icon-48.png",
+          "type": "image/png",
+          "sizes": "48x48"
+      },
+      {
+          "src": "images/ss-icon-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+      }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
